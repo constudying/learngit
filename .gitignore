@@ -1,0 +1,12 @@
+# 忽略部分文件夹
+.settings/
+Debug/
+libraries/
+# 忽略部分文件
+.cproject
+.project
+*.txt
+*.bat
+*.lsl
+# 抽出信息记录文件
+!information.txt
